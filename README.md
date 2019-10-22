@@ -1,6 +1,8 @@
 # Node-ToDoList
 A basic To-Do list application which allows you to add, modify and delete tasks.
 
+The application is hosted on the Heroku and you can view it here: [https://node-todolistapp.herokuapp.com/](https://node-todolistapp.herokuapp.com/)
+
 ![Screenshot](https://i.imgur.com/O6YfYmx.png)
 
 # Functionality
